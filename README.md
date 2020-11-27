@@ -1,2 +1,1 @@
-# parser
-hh
+# makayn la parser la zebi layn3ltbonmok
